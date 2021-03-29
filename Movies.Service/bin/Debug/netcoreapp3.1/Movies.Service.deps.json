@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Movies.Service/1.0.0": {
+        "dependencies": {
+          "Movies.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Movies.Service.dll": {}
+        }
+      },
+      "Movies.Repository/1.0.0": {
+        "runtime": {
+          "Movies.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movies.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Movies.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

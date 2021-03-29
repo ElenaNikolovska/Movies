@@ -1,0 +1,9 @@
+C:\Users\elenaivan\source\repos\Movies\Movies.Entities\bin\Debug\netcoreapp3.1\Movies.Entities.deps.json
+C:\Users\elenaivan\source\repos\Movies\Movies.Entities\bin\Debug\netcoreapp3.1\Movies.Entities.dll
+C:\Users\elenaivan\source\repos\Movies\Movies.Entities\bin\Debug\netcoreapp3.1\Movies.Entities.pdb
+C:\Users\elenaivan\source\repos\Movies\Movies.Entities\obj\Debug\netcoreapp3.1\Movies.Entities.csprojAssemblyReference.cache
+C:\Users\elenaivan\source\repos\Movies\Movies.Entities\obj\Debug\netcoreapp3.1\Movies.Entities.AssemblyInfoInputs.cache
+C:\Users\elenaivan\source\repos\Movies\Movies.Entities\obj\Debug\netcoreapp3.1\Movies.Entities.AssemblyInfo.cs
+C:\Users\elenaivan\source\repos\Movies\Movies.Entities\obj\Debug\netcoreapp3.1\Movies.Entities.csproj.CoreCompileInputs.cache
+C:\Users\elenaivan\source\repos\Movies\Movies.Entities\obj\Debug\netcoreapp3.1\Movies.Entities.dll
+C:\Users\elenaivan\source\repos\Movies\Movies.Entities\obj\Debug\netcoreapp3.1\Movies.Entities.pdb

@@ -1,0 +1,12 @@
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\bin\Debug\netcoreapp3.1\Movies.Service.deps.json
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\bin\Debug\netcoreapp3.1\Movies.Service.dll
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\bin\Debug\netcoreapp3.1\Movies.Service.pdb
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\obj\Debug\netcoreapp3.1\Movies.Service.AssemblyInfoInputs.cache
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\obj\Debug\netcoreapp3.1\Movies.Service.AssemblyInfo.cs
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\obj\Debug\netcoreapp3.1\Movies.Service.csproj.CoreCompileInputs.cache
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\obj\Debug\netcoreapp3.1\Movies.Service.dll
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\obj\Debug\netcoreapp3.1\Movies.Service.pdb
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\obj\Debug\netcoreapp3.1\Movies.Service.csprojAssemblyReference.cache
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\bin\Debug\netcoreapp3.1\Movies.Repository.dll
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\bin\Debug\netcoreapp3.1\Movies.Repository.pdb
+C:\Users\elenaivan\source\repos\Movies\Movies.Service\obj\Debug\netcoreapp3.1\Movies.Service.csproj.CopyComplete
